@@ -1,0 +1,12 @@
+.contact {
+  display: block;
+}
+
+.contact-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-list {
+  list-style: none;
+}

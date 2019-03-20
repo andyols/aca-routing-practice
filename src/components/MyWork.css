@@ -1,0 +1,12 @@
+.my-work {
+  display: block;
+}
+
+.my-work-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.my-work-list {
+  list-style: none;
+}
